@@ -61,7 +61,7 @@ const bannerSection = {
 ==========================*/
 
 const aboutSection = {
-  admin: "ayin_qoph@ayin_qoph",
+  admin: "sakshi@sakshi",
   firstCommand: " sudo run about.exe",
   secondCommand: " executing about.exe",
   about:
