@@ -206,7 +206,7 @@ const experienceSection = {
 const contactSection = {
   contactTagline:
     "Hey Folks, Love to see you sliding here, You all can reach me.",
-  contactList: ["7717785296", "agarwalsakshi368@gmail.com"],
+  contactList: ["agarwalsakshi368@gmail.com"],
 };
 
 
